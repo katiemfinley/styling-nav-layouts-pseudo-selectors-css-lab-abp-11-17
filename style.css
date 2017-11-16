@@ -15,7 +15,7 @@ header nav {
   float: right;
 }
 
-#icebreakers a:hover {
+h3#icebreakers a:hover {
   text-decoration: underline;
 }
 
